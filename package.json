@@ -12,7 +12,7 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pallabbarman/node-chat-app.git"
+        "url": "https://github.com/pallabbarman/node-chat-app.git"
     },
     "dependencies": {
         "bcrypt": "^5.0.1",
